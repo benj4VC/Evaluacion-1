@@ -7,3 +7,20 @@
     font-weight: bold ;
     margin: 10px;
 }
+
+
+.contenido-banner {
+    color: white;
+}
+
+.contenido-banner img {
+    width: 200px;
+    border-radius: 5px;
+  }
+
+.imagenes {
+    display: flex;
+    justify-content: space-around;
+    padding: 30px;
+    background-color: white;
+}
