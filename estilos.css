@@ -18,9 +18,25 @@
     border-radius: 5px;
   }
 
+
+.producto img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+  }
+
+h6{
+    text-align: center;
+}
+
 .imagenes {
     display: flex;
     justify-content: space-around;
     padding: 30px;
     background-color: white;
+}
+
+.promocional {
+    width: 50;
+    height: auto;
 }
