@@ -36,7 +36,9 @@ h6{
     background-color: white;
 }
 
-.promocional {
-    width: 50;
-    height: auto;
-}
+.contenedor {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px; /* Ajusta la altura según sea necesario */
+  }
